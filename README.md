@@ -1,2 +1,1 @@
-# KTNEH
-#Keep Talking and Nobody Explode Helper
+# Keep Talking and Nobody Explode Helper
